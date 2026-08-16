@@ -1,0 +1,6 @@
+{
+  "name": "TakaEarn",
+  "description": "Native Android earning and campaign management platform with dynamic bilingual support, 10s auto-advancing click validation timer, and digital wallet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
